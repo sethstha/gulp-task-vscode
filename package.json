@@ -1,0 +1,36 @@
+{
+  "name": "gulptest",
+  "version": "1.0.8",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "gulp": "git+https://git@github.com/gulpjs/gulp.git#4.0",
+    "gulp-4.0.build": "^4.0.0-build.a271520",
+    "gulp-image": "^2.7.6",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0",
+    "gulp-wait": "0.0.2",
+    "gulp-wp-pot": "^2.0.4",
+    "gulp-zip": "^4.0.0",
+    "jshint": "^2.9.4",
+    "pixrem": "^3.0.2",
+    "stylelint_d": "^1.0.8"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-install": "^1.1.0"
+  }
+}
